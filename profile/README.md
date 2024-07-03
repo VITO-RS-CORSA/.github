@@ -1,4 +1,4 @@
-![VITO Remote Sensing](profile/corsa.gif)  
+![VITO Remote Sensing](corsa.gif)  
 
 # CORSA
 
