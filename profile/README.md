@@ -1,4 +1,5 @@
-![VITO Remote Sensing](corsa.gif)  
+<img src="corsa.gif" width="800" height="450"/>
+
 
 # CORSA
 
